@@ -1,0 +1,301 @@
+{
+  "screen_size": [
+    1000,
+    700
+  ],
+  "elements_count": 17,
+  "elements": [
+    {
+      "id": 0,
+      "type": "text",
+      "text": "Automation Dashboard v2.0 - [Production Environment]",
+      "bbox": {
+        "x1": 19,
+        "y1": 12,
+        "x2": 273,
+        "y2": 24
+      },
+      "center": [
+        146,
+        18
+      ],
+      "confidence": 0.891,
+      "attributes": {}
+    },
+    {
+      "id": 1,
+      "type": "checkbox",
+      "text": "",
+      "bbox": {
+        "x1": 919,
+        "y1": 9,
+        "x2": 947,
+        "y2": 32
+      },
+      "center": [
+        933,
+        20
+      ],
+      "confidence": 0.85,
+      "attributes": {}
+    },
+    {
+      "id": 2,
+      "type": "checkbox",
+      "text": "",
+      "bbox": {
+        "x1": 954,
+        "y1": 9,
+        "x2": 982,
+        "y2": 32
+      },
+      "center": [
+        968,
+        20
+      ],
+      "confidence": 0.85,
+      "attributes": {}
+    },
+    {
+      "id": 3,
+      "type": "input",
+      "text": "Search projects..",
+      "bbox": {
+        "x1": 649,
+        "y1": 47,
+        "x2": 882,
+        "y2": 74
+      },
+      "center": [
+        765,
+        60
+      ],
+      "confidence": 0.857,
+      "attributes": {}
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "text": "File",
+      "bbox": {
+        "x1": 27,
+        "y1": 51,
+        "x2": 51,
+        "y2": 69
+      },
+      "center": [
+        39,
+        60
+      ],
+      "confidence": 0.751,
+      "attributes": {}
+    },
+    {
+      "id": 5,
+      "type": "button",
+      "text": "View",
+      "bbox": {
+        "x1": 127,
+        "y1": 52,
+        "x2": 157,
+        "y2": 69
+      },
+      "center": [
+        142,
+        60
+      ],
+      "confidence": 0.788,
+      "attributes": {}
+    },
+    {
+      "id": 6,
+      "type": "button",
+      "text": "Help",
+      "bbox": {
+        "x1": 260,
+        "y1": 55,
+        "x2": 284,
+        "y2": 67
+      },
+      "center": [
+        272,
+        61
+      ],
+      "confidence": 0.824,
+      "attributes": {}
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "text": "User Authe ntication",
+      "bbox": {
+        "x1": 58,
+        "y1": 129,
+        "x2": 155,
+        "y2": 145
+      },
+      "center": [
+        106,
+        137
+      ],
+      "confidence": 0.874,
+      "attributes": {}
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "text": "Quick Actions",
+      "bbox": {
+        "x1": 508,
+        "y1": 129,
+        "x2": 575,
+        "y2": 143
+      },
+      "center": [
+        541,
+        136
+      ],
+      "confidence": 0.857,
+      "attributes": {}
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "text": "Username or Email:",
+      "bbox": {
+        "x1": 58,
+        "y1": 169,
+        "x2": 151,
+        "y2": 183
+      },
+      "center": [
+        104,
+        176
+      ],
+      "confidence": 0.89,
+      "attributes": {}
+    },
+    {
+      "id": 10,
+      "type": "button",
+      "text": "Run Test Suite",
+      "bbox": {
+        "x1": 509,
+        "y1": 169,
+        "x2": 712,
+        "y2": 222
+      },
+      "center": [
+        610,
+        195
+      ],
+      "confidence": 0.88,
+      "attributes": {}
+    },
+    {
+      "id": 11,
+      "type": "button",
+      "text": "De ploy Build",
+      "bbox": {
+        "x1": 729,
+        "y1": 169,
+        "x2": 932,
+        "y2": 222
+      },
+      "center": [
+        830,
+        195
+      ],
+      "confidence": 0.857,
+      "attributes": {}
+    },
+    {
+      "id": 12,
+      "type": "input",
+      "text": "alex@automation.io",
+      "bbox": {
+        "x1": 59,
+        "y1": 194,
+        "x2": 422,
+        "y2": 232
+      },
+      "center": [
+        240,
+        213
+      ],
+      "confidence": 0.888,
+      "attributes": {}
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "text": "Password:",
+      "bbox": {
+        "x1": 58,
+        "y1": 248,
+        "x2": 107,
+        "y2": 264
+      },
+      "center": [
+        82,
+        256
+      ],
+      "confidence": 0.861,
+      "attributes": {}
+    },
+    {
+      "id": 14,
+      "type": "input",
+      "text": "password123",
+      "bbox": {
+        "x1": 59,
+        "y1": 274,
+        "x2": 422,
+        "y2": 312
+      },
+      "center": [
+        240,
+        293
+      ],
+      "confidence": 0.867,
+      "attributes": {}
+    },
+    {
+      "id": 15,
+      "type": "button",
+      "text": "Sign In",
+      "bbox": {
+        "x1": 59,
+        "y1": 329,
+        "x2": 182,
+        "y2": 367
+      },
+      "center": [
+        120,
+        348
+      ],
+      "confidence": 0.853,
+      "attributes": {}
+    },
+    {
+      "id": 16,
+      "type": "button",
+      "text": "Cancel",
+      "bbox": {
+        "x1": 199,
+        "y1": 329,
+        "x2": 322,
+        "y2": 367
+      },
+      "center": [
+        260,
+        348
+      ],
+      "confidence": 0.851,
+      "attributes": {}
+    }
+  ],
+  "metadata": {
+    "fused_elements_count": 17
+  }
+}

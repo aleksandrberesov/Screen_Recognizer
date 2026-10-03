@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "screen-recognizer"
+version = "0.1.0"
+description = "Fast, local, zero-LLM screenshot perception and UI element recognition engine"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pillow>=10.0",
+    "numpy>=1.24",
+    "opencv-python>=4.8",
+    "pydantic>=2.0",
+    "rapidocr-onnxruntime==1.2.3",
+]
+
+[project.optional-dependencies]
+tesseract = ["pytesseract>=0.3.10"]
+fast-capture = ["mss>=9.0"]
+
+[project.scripts]
+screen-recognizer = "screen_recognizer.cli:main"
